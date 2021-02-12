@@ -24,3 +24,6 @@ over three orbital periods and computes the relative error.
 For the extremes the projectiles trajectory is plotted. The corresponding potential, kinetic
 and total energies are also graphed.
 
+* `Kepler_Project_Report.pdf`
+Final explanatory notebook of project
+
