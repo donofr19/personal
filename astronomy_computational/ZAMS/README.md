@@ -24,7 +24,7 @@ Contents
     4. `test_reactions.py`: evaluates the reaction rate module
     5. `test_structure.py`: evaluates computation of central P, rho, T in `structure`
     6. `test_zams.py`: evaluates interpolation of effective temperature and surface luminosity in `zams`
-    
+12. `ZAMS_Project_Report`: final explanatory report of project
 
 Testing
 -------
